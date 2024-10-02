@@ -1,0 +1,12 @@
+pandas
+numpy
+jupyter
+tqdm
+openpyxl
+typing
+scikit-learn
+matplotlib
+xgboost
+shap
+seaborn
+imblearn
